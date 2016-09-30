@@ -3,4 +3,7 @@ cookies
 candy
 milk shakes
 
+marzipan
+lemon drops
+
 
